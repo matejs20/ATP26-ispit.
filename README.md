@@ -55,6 +55,23 @@ print("Dobra večer")
 
 
 
+---
+
+### 3️⃣ LICENSE.md
+- Kopiraj MIT License sa [ChooseALicense.com](https://choosealicense.com/licenses/mit/)
+
+---
+
+### 4️⃣ CHANGELOG.md
+```markdown
+# Changelog
+## 1.0
+- Dodana dokumentacija, slike, kod, popisi, tablica, citat
+
+
+
+
+
 
 
 
