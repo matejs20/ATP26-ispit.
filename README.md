@@ -43,18 +43,33 @@ Usability tests play an important role in the delivery of a cohesive final produ
 *Izvor slika: [Pexels](https://www.pexels.com/)*
 
 
+- Ubaci link na originalni GitHub Gist.
 
+### 2.4 Liste
+```markdown
+### Numerički popis
+1. Planiranje
+2. Dizajn
+3. Testiranje
 
-
-
-
-
-
-
+### Ne-numerički popis
+- UX istraživanje
+- Wireframing
+- Prototyping
 
 ```python
-def greet_user(name):
-    return f"Hello, {name}!"
+print("dobra vecer")
+
+| Naziv projekta | Verzija | Autor | Datum | Tehnologije |
+|----------------|---------|-------|-------|-------------|
+| ATP26 Ispit    | 1.0     | Matej Sorić | 15.01.2026 | Markdown, GitHub Pages |
+
+> "Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs
+
+
+
+
+
 
 
 
