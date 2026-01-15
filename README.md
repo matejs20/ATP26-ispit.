@@ -19,7 +19,7 @@ Usability measures how effectively users can achieve goals with a product, combi
 Once designers understand user needs, they create wireframes, visual frameworks, and prototypes. Iterative testing and usability evaluation ensure the product works as intended. Methods include A/B testing, persona development, and automated testing environments.
 
 ![UX Example 1](images/ux1.jpg)
-![UX Example 2](images/ux2.jpg)
+![UX Example 2](mesh.png)
 *Izvor slika: [Pexels](https://www.pexels.com/)*
 
 [Primjer koda na GitHub Gist](https://gist.github.com/)  
